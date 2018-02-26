@@ -1,9 +1,11 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2010
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrowserHistoryGatherer", "BrowserHistoryGatherer\BrowserHistoryGatherer.csproj", "{078A2E4F-A497-4EBA-BD55-8FDB7A36F07B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UrlHistoryLibrary", "UrlHistoryLibrary\UrlHistoryLibrary.csproj", "{0CCA76D3-8423-4099-AE2B-82CDD2C0BFEC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{078A2E4F-A497-4EBA-BD55-8FDB7A36F07B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{078A2E4F-A497-4EBA-BD55-8FDB7A36F07B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{078A2E4F-A497-4EBA-BD55-8FDB7A36F07B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CCA76D3-8423-4099-AE2B-82CDD2C0BFEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CCA76D3-8423-4099-AE2B-82CDD2C0BFEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CCA76D3-8423-4099-AE2B-82CDD2C0BFEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CCA76D3-8423-4099-AE2B-82CDD2C0BFEC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
